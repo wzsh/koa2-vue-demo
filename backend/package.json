@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A Koa.js project",
+  "author": "Zong-Sheng Wang <wffy.wzs@foxmail.com>",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "bcryptjs": "^2.4.3",
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-cors": "0.0.16",
+    "koa-json": "^2.0.2",
+    "koa-jwt": "^3.3.0",
+    "koa-logger": "^3.1.0",
+    "koa-router": "^7.3.0",
+    "pg": "^7.4.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.31.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015-node6": "^0.4.0",
+    "babel-preset-stage-3": "^6.24.1"
+  },
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
