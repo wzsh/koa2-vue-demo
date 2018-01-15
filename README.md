@@ -29,7 +29,7 @@ Run the frontend:
 > npm run dev
 ```
 
-finally, open your browser with
+finally, open your browser with the frontend url
 ```
 http://localhost:8080
 ```
